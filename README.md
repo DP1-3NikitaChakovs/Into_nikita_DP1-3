@@ -34,3 +34,5 @@ if nterms <= 0:
 elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    ```
+## Bilde
+![alt text](IMG_0599)
