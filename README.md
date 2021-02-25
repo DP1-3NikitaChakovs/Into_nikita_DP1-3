@@ -44,3 +44,8 @@ elif nterms == 1:
 1.Ēdiens
 2. Zobu tīrišana
 3. Esi brīvs
+
+## Saraksts
+1.  Pamodos
+2.  Braucu uz tehnikumu
+3.  3. Bruacu mājās
