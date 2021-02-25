@@ -35,7 +35,7 @@ elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    ```
 ## Bilde
-![alt text](IMG_0599)
+![alt text](1_small-4)
 
 ## Bilde
 ![alt text](https://i.pinimg.com/736x/27/3a/c4/273ac4ef11799552fa168cf5c59cc5cf.jpg)
