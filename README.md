@@ -22,3 +22,15 @@ git config user.email "xuiruljat@mail.ru"
 
 ## Status
 Viss ir baigi forši .
+
+Nevis gudrība, bet veiksme ir tā, kas nosaka cilvēka dzīvi.
+
+## Code Python
+```
+
+# check if the number of terms is valid
+if nterms <= 0:
+   print("Please enter a positive integer")
+elif nterms == 1:
+   print("Fibonacci sequence upto",nterms,":")
+   ```
