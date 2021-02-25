@@ -20,3 +20,5 @@ git config user.email "xuiruljat@mail.ru"
 
 ```
 
+## Status
+Viss ir baigi forši .
